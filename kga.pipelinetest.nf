@@ -1,6 +1,7 @@
 #!/usr/bin/env nextflow
 
 // Test Github push 201029
+// redo test github blablabla
 //params.reads = "/data/mmaj/data/pipelinetests/nextflow2/*.R{1,2}.fq.gz"
 
 
